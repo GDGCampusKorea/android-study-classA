@@ -1,7 +1,8 @@
 # 안드로이드 스터디 A Class
 기초부터 시작하는 안드로이드 첫걸음 떼기!
 
-**GDG Korea Campus** 에서 진행하는 안드로이드 스터디입니다. 기초적인 내용이지만 대부분의 안드로이드 개발을 해보신 분들이 놓칠만한 부분도 짚고 넘어갑니다. [GDG Korea Campus Slack](https://festi.kr/zlack/team/T1YJMK00P/19/invitation/)의 **#dev-android** 채널에서 문의주세요!
+**GDG Korea Campus** 에서 진행하는 안드로이드 스터디입니다. 기초적인 내용이지만 대부분의 안드로이드 개발을 해보신 분들이 놓칠만한 부분도 짚고 넘어갑니다. [GDG Korea Campus Slack](https://festi.kr/zlack/team/T1YJMK00P/19/invitation/)의 **#dev-android** 채널에서 문의주세요!  
+**10월 스터디는 이미 시작하였습니다**
 
 ### 목표
 안드로이드 스터디의 목표는 다음과 같습니다.
